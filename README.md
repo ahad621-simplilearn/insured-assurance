@@ -2,7 +2,7 @@
 
 ## Author: Ahad Alam
 
-[![Build Status](https://github.com/YOUR_USERNAME/insured-assurance/workflows/CI%2FCD%20Pipeline%20with%20Jenkins%20Integration/badge.svg)](https://github.com/YOUR_USERNAME/insured-assurance/actions)
+[![Build Status](https://github.com/ahad621-simplilearn/insured-assurance/workflows/CI%2FCD%20Pipeline%20with%20Jenkins%20Integration/badge.svg)](https://github.com/ahad621-simplilearn/insured-assurance/actions)
 [![Java Version](https://img.shields.io/badge/Java-17-orange.svg)](https://openjdk.java.net/projects/jdk/17/)
 [![Maven](https://img.shields.io/badge/Maven-3.x-blue.svg)](https://maven.apache.org/)
 [![Tomcat](https://img.shields.io/badge/Tomcat-9.0.108-yellow.svg)](https://tomcat.apache.org/)
